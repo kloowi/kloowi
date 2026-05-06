@@ -6,10 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FAD0E6,50:FF9ECF,100:FF6FB5&text=Hi%20there,%20I'm%20Chloe%20🎀&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Pink banner" />
 </div>
 
-<div align="center">
-  <h3>୨୧ ── ✦ pink pixels, soft vibes, strong code ✦ ── ୨୧</h3>
-</div>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%92%96+frontend+dreamer+%7C+typescript+lover;%F0%9F%8E%80+making+playful+UIs+that+feel+alive;%E2%9C%A8+currently+crafting%3A+TerraQuest" alt="Typing intro" />
@@ -59,5 +55,5 @@
 </div>
 
 <div align="center">
-  <sub>made with love, bows, and way too many shades of pink ✿</sub>
+  <sub>made with love ✿</sub>
 </div>
