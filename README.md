@@ -20,7 +20,7 @@
 - 🧁 I care about readable code, soft aesthetics, and shipping things that make people smile.
 - ✨ Always learning: animation systems, design engineering, and creative frontend architecture.
 
-## Tech Bow Box
+## Tech Box
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-ff70b8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=ff9ecf" alt="TypeScript" />
@@ -32,28 +32,16 @@
 
 <p align="center">🎀─────────୨ৎ─────────🎀</p>
 
-## Pink Stats Corner
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hornley&show_icons=true&hide_border=true&title_color=ff5ca8&text_color=7a2a55&icon_color=ff5ca8&bg_color=fff0f7" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hornley&layout=compact&hide_border=true&title_color=ff5ca8&text_color=7a2a55&bg_color=fff0f7" alt="Top languages" />
-</div>
+## Stats Corner
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hornley&hide_border=true&background=FFF0F7&ring=FF5CA8&fire=FF5CA8&currStreakLabel=FF5CA8&currStreakNum=7A2A55&sideNums=7A2A55&sideLabels=7A2A55&dates=AD5B87" alt="GitHub streak" />
 </div>
 
-<p align="center">🩷 ribbon mode: on forever 🩷</p>
-
-
-
 <p align="center">🎀─────────୨ৎ─────────🎀</p>
 
 <div align="center">
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff9ecf" alt="LinkedIn" /></a>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff9ecf" alt="Email" /></a>
+  <a href="mailto:maxineecarbonell@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff9ecf" alt="Email" /></a>
 </div>
 
-<div align="center">
-  <sub>made with love ✿</sub>
-</div>
