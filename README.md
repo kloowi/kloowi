@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/Figma-ff70b8?style=for-the-badge&logo=figma&logoColor=white&labelColor=ff9ecf" alt="Figma" />
 </div>
 
-<p align="center">🎀─────────୨ৎ─────────🎀</p>
-
 ## Stats Corner
 
 <div align="center">
