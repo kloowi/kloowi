@@ -15,10 +15,9 @@
 
 ## About Me
 
-- 💗 I love building cozy, playful product experiences that still feel sharp and fast.
-- 🌸 Current focus: delightful UI details, game-feel interactions, and thoughtful UX polish.
-- 🧁 I care about readable code, soft aesthetics, and shipping things that make people smile.
-- ✨ Always learning: animation systems, design engineering, and creative frontend architecture.
+- 💗 I love building playful product experiences that still feel sharp and fast.
+- 🌸 Current focus: DevOps and AI Engineering
+- ✨ Always learning: anything for growth.
 
 ## Tech Box
 
