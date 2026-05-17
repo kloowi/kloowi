@@ -16,7 +16,7 @@
 ## About Me
 
 - 💗 I love building playful product experiences that still feel sharp and fast.
-- 🌸 Current focus: DevOps and AI Engineering
+- 🌸 Current focus: DevOps and AI Engineering.
 - ✨ Always learning: anything for growth.
 
 ## Tech Box
