@@ -8,14 +8,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%92%96+frontend+dreamer+%7C+typescript+lover;%F0%9F%8E%80+making+playful+UIs+that+feel+alive;%E2%9C%A8+currently+crafting%3A+TerraQuest" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%92%96+frontend+dreamer+%7C+typescript+lover;%F0%9F%8E%80+developer;%E2%9C%A8+currently+crafting%3A+TerraQuest" alt="Typing intro" />
 </p>
 
 <p align="center">🎀─────────୨ৎ─────────🎀</p>
 
 ## About Me
 
-- 💗 I love building playful product experiences that still feel sharp and fast.
+- 💗 Building experiences that feel sharp and reliable.
 - 🌸 Current focus: DevOps and AI Engineering.
 - ✨ Always learning: anything for growth.
 
@@ -32,7 +32,7 @@
 ## Stats Corner
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hornley&hide_border=true&background=FFF0F7&ring=FF5CA8&fire=FF5CA8&currStreakLabel=FF5CA8&currStreakNum=7A2A55&sideNums=7A2A55&sideLabels=7A2A55&dates=AD5B87" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=kloowi&hide_border=true&background=FFF0F7&ring=FF5CA8&fire=FF5CA8&currStreakLabel=FF5CA8&currStreakNum=7A2A55&sideNums=7A2A55&sideLabels=7A2A55&dates=AD5B87" alt="GitHub streak" />
 </div>
 
 <p align="center">🎀─────────୨ৎ─────────🎀</p>
